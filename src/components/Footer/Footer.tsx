@@ -20,8 +20,8 @@ export const Footer = () => {
         
         <div className="py-8 border-t border-gray-800">
           <div className="text-center">
-            <p className="text-gray-400 text-lg">
-              {new Date().getFullYear()} Prosper Ventures Pvt. Ltd. All rights reserved.
+            <p className="text-gray-400 text-sm">
+              &copy; {new Date().getFullYear()} Prosper Ventures Pvt. Ltd. All rights reserved.
             </p>
           </div>
         </div>

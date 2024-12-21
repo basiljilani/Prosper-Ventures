@@ -4,7 +4,7 @@ import { Linkedin } from 'lucide-react';
 export const SocialButton = () => {
   return (
     <a
-      href="https://linkedin.com/company/prosper-ventures"
+      href="https://www.linkedin.com/company/prosperventurespk/"
       target="_blank"
       rel="noopener noreferrer"
       className="flex items-center gap-2 text-gray-300 hover:text-emerald-400 transition-colors duration-300"
